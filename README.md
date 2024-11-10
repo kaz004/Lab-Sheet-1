@@ -10,7 +10,7 @@
    ```
 
 2. **navigate inside the folder**:
-   use cd to navigate to all the files inside the folder that is cloned.
+   use cd to access all the files inside the folder that is cloned.
    ```bash
    cd Lab-Sheet-1
    ```
