@@ -18,7 +18,7 @@
     javac -d out src/StringOperations.java test/StringOperationsTest.java
     ```
 
-3.**navigate inside the folder**:
+3. **navigate inside the folder**:
    use cd to navigate to all the files inside the folder that is cloned.
    ```bash
    cd Lab-Sheet-1
