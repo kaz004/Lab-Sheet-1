@@ -18,7 +18,13 @@
     javac -d out src/StringOperations.java test/StringOperationsTest.java
     ```
 
-3. **Run the Code**:
+3.**navigate inside the folder**:
+   use cd to navigate to all the files inside the folder that is cloned.
+   ```bash
+    cd Lab-Sheet-1
+   ```
+
+4. **Run the Code**:
     Use java command to run files individually.
     ```bash
     java -cp out test.StaticArrayTest
