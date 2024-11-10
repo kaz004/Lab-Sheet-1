@@ -8,8 +8,14 @@
    ```bash
    git clone https://github.com/kaz004/Lab-Sheet-1
    ```
+
+2. **navigate inside the folder**:
+   use cd to navigate to all the files inside the folder that is cloned.
+   ```bash
+   cd Lab-Sheet-1
+   ```
    
-2. **Compile the Code**:
+3. **Compile the Code**:
     Use javac to create Class Files for all Java files.
     All the code is compiled in out/src and out/test directories
     ```bash
@@ -17,12 +23,6 @@
     javac -d out src/DynamicArray.java test/DynamicArrayTest.java
     javac -d out src/StringOperations.java test/StringOperationsTest.java
     ```
-
-3. **navigate inside the folder**:
-   use cd to navigate to all the files inside the folder that is cloned.
-   ```bash
-   cd Lab-Sheet-1
-   ```
 
 4. **Run the Code**:
     Use java command to run files individually.
